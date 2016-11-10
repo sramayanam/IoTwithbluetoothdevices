@@ -1,0 +1,12 @@
+{
+    "name": "home-meteo",
+    "version": "1.0.0",
+    "dependencies": {
+        "azure-iot-device": "latest",
+        "azure-iot-device-amqp": "latest",
+        "azure-iot-device-http": "latest",
+        "azure-iot-device-mqtt": "latest",
+        "sensortag": "latest",
+        "async": "latest"
+    }
+}
